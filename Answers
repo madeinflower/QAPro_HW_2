@@ -1,0 +1,11 @@
+1) https://playground.learnqa.ru/puzzle/triangle найти 3\4 бага и все кейсы:
+
+ссылка на скриншот: https://drive.google.com/file/d/12GH8Wuk-P9pvQhlTr4sy_ztlvgNqIm5Z/view?usp=sharing
+
+2) найти свой ip и mac
+
+нашла
+
+3) берем https://petstore.swagger.io/#/ endpoint user и создаем тест кейсы на CRUD  в тест рейле (ссылка на кейсы в дз) + заводим баги в джире:
+
+https://14060323eqa.testrail.io/index.php?/suites/view/9&group_by=cases:section_id&group_order=asc&display_deleted_cases=0
